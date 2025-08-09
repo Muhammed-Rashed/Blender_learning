@@ -1,51 +1,59 @@
-1. Modeling
+# 3D Modeling & Animation Learning Plan
 
-&nbsp;	1.1. basic
+## 1. Modeling
 
-&nbsp;		. Learn the controllers
+### 1.1 Basic
+- Learn the controllers.
+- Make simple models:
+  - Table
+  - Donut
+  - Chair
 
-&nbsp;		. Make simple models (Table, Donut, Chair)		
+### 1.2 Mid
+- Add details to simple models to make them look realistic.
+- Create slightly more complex models:
+  - Chest
+  - Mouse
+  - Files
 
-&nbsp;	1.2. Mid
-		. Add details to simple Models to make them look real
-		. Make slightly more complex models (Chest, mouse, Files) 
+### 1.3 Hard
+- Create highly complex models:
+  - Modern desk
+  - Laptop
+  - Person
 
-&nbsp;	1.3. Hard
+---
 
-&nbsp;		. Make very complex models (modern desk, Laptop, person)
+## 2. Animation
 
-2. Animation
+### 2.1 Basic
+- Learn the controllers.
+- Learn how to rig a simple model.
+- Create a simple animation (e.g., chest opening and closing).
 
-&nbsp;	2.1. basic
+### 2.2 Mid
+- Make a running animation for a person.
+- Create a simple animation (e.g., file opening).
+- Learn more advanced rigging techniques.
 
-&nbsp;		. Learn the controllers
+### 2.3 Hard
+- Create a short cutscene:
+  > A person writing on a keyboard at a desk,  
+  > then opening a file cabinet,  
+  > taking out a file,  
+  > and opening the file.
 
-&nbsp;		. Learn how to rig a simple model
+---
 
-&nbsp;		. Make a simple animation of said model (chest opening and closing)
+## 3. Shading
 
-&nbsp;	2.2. mid
+### 3.1 Basic
+- Understand lighting.
+- Learn simple shading.
 
-&nbsp;		. Make a running animation for a person
+### 3.2 Mid
+- Apply basic shading to one of your modeling projects.
+- Set up basic lighting.
 
-&nbsp;		. Make a simple animation for (File opening)
-
-&nbsp;		. Learn more about rigging
-
-&nbsp;	2.3 Hard
-		. Make a simple cutscene (A person writing on a keyboard on a desk and then that person opening a file cabinets and getting a file out and opening said file)  
-
-
-3. Shading
-	3.1. basic
-
-&nbsp;		. Understand lighting
-		. Understand simple shading
-	3.2. mid
-		. Make a basic shading one of my modeling projects
-
-&nbsp;		. Do basic lighting
-	3.3. Hard
-		. Make the animation i made have lighting and shading
-			
-
+### 3.3 Hard
+- Add lighting and shading to an entire animation.
