@@ -7,7 +7,7 @@
 - Make simple models:
   - Table
   - Donut
-  - Chair
+  - learn how to use refrence images
 
 ### 1.2 Mid
 - Add details to simple models to make them look realistic.
